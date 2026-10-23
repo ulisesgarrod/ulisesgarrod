@@ -14,7 +14,7 @@
 
 Final-year **Telecommunications Engineering student at Universitat Politècnica de València (UPV)**, based in Valencia, Spain.
 
-I'm interested in **embedded systems, electronics and digital design**, especially the interaction between hardware and software. My academic projects include microcontroller control, RTL design and circuit simulation.
+I'm interested in **embedded systems, C programming, electronics and digital design**, especially the interaction between hardware and software. My academic projects include microcontroller control, RTL design and circuit simulation.
 
 ## ⚡ Featured Project
 
@@ -47,7 +47,6 @@ The repository documents individual contributions and credits for the shared wor
 
 ## What I'm working towards
 
-I'm looking for an **internship in embedded systems, electronics or digital design**, with availability from approximately **February 2027** through a university internship agreement.
+I'm looking for an **internship in embedded systems, C programming, electronics or digital design**, with availability from approximately **February 2027** through a university internship agreement.
 
 I want to deepen my practical engineering skills through design, testing and debugging, while learning from an experienced team.
-
