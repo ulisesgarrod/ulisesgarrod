@@ -1,8 +1,5 @@
-# Hi, I'm Ulises 👋
 <h1 align="center">Ulises García Rodríguez</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-garcia-rodriguez-telecom)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ulisesgarrod)
 <p align="center">
   <strong>Telecommunications Engineering</strong><br>
   Embedded Systems &nbsp;·&nbsp; Electronics &nbsp;·&nbsp; Digital Design
@@ -21,7 +18,6 @@ I'm interested in **embedded systems, electronics and digital design**, especial
 
 ## ⚡ Featured Project
 
-### [32-bit RISC-V Processor in SystemVerilog](https://github.com/ulisesgarrod/riscv32-systemverilog-processor)
 ### [RISC-V Processor · RTL Design in SystemVerilog](https://github.com/ulisesgarrod/riscv32-systemverilog-processor)
 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL-2563EB?style=flat-square)
@@ -54,3 +50,4 @@ The repository documents individual contributions and credits for the shared wor
 I'm looking for an **internship in embedded systems, electronics or digital design**, with availability from approximately **February 2027** through a university internship agreement.
 
 I want to deepen my practical engineering skills through design, testing and debugging, while learning from an experienced team.
+
